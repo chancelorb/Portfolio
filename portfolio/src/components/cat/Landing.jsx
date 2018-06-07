@@ -11,7 +11,8 @@ const Landing = () => {
           <div className='col-1 land-hr'></div>
           <div className='col-8 land-desc'>
             <h3 className='land-desc-t'>Fullstack Web Developer</h3>
-            <p>I do with passion what I am good at.</p>
+            <hr />
+            <p>Passionate about innovation, Blockchain, and machine learning.</p>
           </div>
         </div>
       </div>

@@ -4,6 +4,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   height: 85vh;
 }
 hr {
@@ -18,17 +19,19 @@ hr {
 .landing-text-container {
   padding-top: 7em;
   color: #fff;
+
 }
 .land-name {
   padding-top: 2em;
   text-align:left;
   padding-left: 2em;
   font-size: 70px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .land-desc {
   text-align: center;
-  padding-top: 1em;
+  padding-top: 11em;
 }
 .land-desc-t {
   font-size: 40px;
